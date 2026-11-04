@@ -1,0 +1,1 @@
+# Plataforma-Web-Tolerante-a-Falhas-na-AWS-ALB-Auto-Scaling-Group-
