@@ -63,7 +63,7 @@ flowchart TB
 
 ## ⚙️ Passo a Passo Técnico (simplificado)
 
-> Região: `us-east-1`. Convenção de nomes: `<recurso>-resilient-web`.
+> Região: `us-east-1`.
 
 ### 1. Rede
 - Usar a **VPC padrão** e selecionar **2 subnets públicas em AZs distintas**.
