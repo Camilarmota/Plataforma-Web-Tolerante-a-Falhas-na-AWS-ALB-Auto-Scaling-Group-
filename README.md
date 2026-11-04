@@ -117,7 +117,7 @@ echo "<h1>Servidor Web - Instância: $(hostname -f)</h1>" > /var/www/html/index.
 3. Acessar o **DNS name** do ALB no navegador.
 4. Atualizar a página várias vezes: o **hostname muda**, comprovando a distribuição entre as instâncias.
 
-> 📸 [](docs/screenshots/ALB_CamilaMota_1.png)
+> 📸 ![](docs/screenshots/ALB_CamilaMota_1.png)
 
 ### 6. Limpeza de recursos (evitar custos)
 Ordem de exclusão: **ASG → Load Balancer → Target Group → Launch Template → Security Group**.
